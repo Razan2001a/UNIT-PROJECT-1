@@ -1,0 +1,42 @@
+[
+    {
+        "id": "100",
+        "title": "Lobor Dispute",
+        "client_id": "c1",
+        "lawyer_id": "l1",
+        "type": "lobor",
+        "importance": 3,
+        "hearing_days": 10,
+        "status": "open"
+    },
+    {
+        "id": "101",
+        "title": "Family Custody",
+        "client_id": "c2",
+        "lawyer_id": "l1",
+        "type": "family",
+        "importance": 4,
+        "hearing_days": 1,
+        "status": "closed"
+    },
+    {
+        "id": "102",
+        "title": "Cyber Fraud",
+        "client_id": "c3",
+        "lawyer_id": "l1",
+        "type": "criminal",
+        "importance": 5,
+        "hearing_days": 1,
+        "status": "open"
+    },
+    {
+        "id": "104",
+        "title": "Finncal",
+        "client_id": "c4",
+        "lawyer_id": "l1",
+        "type": "finacial",
+        "importance": 4,
+        "hearing_days": 5,
+        "status": "open"
+    }
+]
